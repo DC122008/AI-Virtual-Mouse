@@ -1,6 +1,6 @@
 ## AI Virtual Mouse
 
-> Developed an AI-based approach for controlling the mouse movement using Python and openCV with real-time camera that detects hand landmarks, tracks gesture patterns instead of a physical mouse.
+> I've devised an artificial intelligence (AI)-driven solution to manipulate mouse movements utilizing Python and OpenCV. This system employs a real-time camera to identify and track hand landmarks, allowing for the interpretation of gesture patterns as opposed to relying on a traditional physical mouse.
 
 ## Dependencies  -
 > Please install all the required dependencies.
